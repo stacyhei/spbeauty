@@ -11,6 +11,8 @@ function PrimaryButton(props) {
         background: #3B82F6;
         border-radius: 24px;
         
+
+        min-width: ${minWidth};
         width: 217px;
         height: 34px;
         left: 8px;
