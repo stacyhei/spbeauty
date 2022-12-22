@@ -6,7 +6,7 @@ function SecondaryButton(props) {
     let minWidth = props.minWidth === undefined ? '144px' : props.minWidth;
     const Button = styled.div`
         background: #FFFFFF;
-        min-width: ${minWidth};
+        min-width: 217px;
         border: 1px solid #64748B;
         border-radius: 24px;
         
